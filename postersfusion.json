@@ -9,14 +9,59 @@
           "items": [
             {
               "hideTitle": true,
-              "id": "CHRISTMAS-001",
+              "id": "99504A89-A695-4846-95A0-26E62A88C147",
               "imageAspect": "wide",
               "imageURL": "https://raw.githubusercontent.com/cgirman07/Posters-for-Fusion/refs/heads/main/Untitled%20design.png",
               "title": "Christmas"
+            },
+            {
+              "hideTitle": true,
+              "id": "BA4C52FC-5938-40CF-9294-66D8045BE598",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/1970s-wide.png",
+              "title": "1970s"
+            },
+            {
+              "hideTitle": true,
+              "id": "EAD046FE-34A0-43ED-88E3-D2B83372D04D",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/1980s-wide.png",
+              "title": "1980s"
+            },
+            {
+              "hideTitle": true,
+              "id": "CD28A996-5D7E-4A60-8798-F32143A7BB93",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/1990s-wide.png",
+              "title": "1990s"
+            },
+            {
+              "hideTitle": true,
+              "id": "8F592676-CC91-4720-AA0D-4B29E172AD20",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/2000s-wide.png",
+              "title": "2000s"
+            },
+            {
+              "hideTitle": true,
+              "id": "4747DBAF-B3AF-4DE5-A513-2053B1718864",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/2010s-wide.png",
+              "title": "2010s"
+            },
+            {
+              "hideTitle": true,
+              "id": "D7917AA2-45B1-4F3E-834C-D2D519A8775C",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/2020s-wide.png",
+              "title": "2020s"
             }
           ]
         }
-      }
+      },
+      "id": "collection.9BB8FEF7-5191-45E4-92CC-72AB9D1784F2",
+      "title": "Decades",
+      "type": "collection.row"
     }
   ]
 }

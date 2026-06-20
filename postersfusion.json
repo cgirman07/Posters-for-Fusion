@@ -1,4 +1,22 @@
 {
-  "name": "Christmas Movies",
-  "image": "https://raw.githubusercontent.com/cgirman07/Posters-for-Fusion/refs/heads/main/Untitled%20design.png"
+  "exportType": "fusionWidgets",
+  "exportVersion": 1,
+  "widgets": [
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "hideTitle": true,
+              "id": "CHRISTMAS-001",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/cgirman07/Posters-for-Fusion/refs/heads/main/Untitled%20design.png",
+              "title": "Christmas"
+            }
+          ]
+        }
+      }
+    }
+  ]
 }
